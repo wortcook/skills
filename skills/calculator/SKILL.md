@@ -22,7 +22,9 @@ unary - operator, nonassociative
 ++ and -- operators, nonassociative
 
 Use parenthesis when unsure of precedence to ensure accuracy of answer. 1+2 * 3 should give an answer of 7. make clear by using 1+(2 * 3) to avoid errors
-Parenthesis must be balanced, for every ( there must be a ) 
+Parenthesis must be balanced, for every ( there must be a ).
+
+When more complicated calculation is required reference the bc-command-manual.html reference file. Only do this when a simple equation cannot provide an answer.
 
 ## General pattern
 ```bash
